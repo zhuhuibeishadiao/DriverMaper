@@ -1,1 +1,3 @@
 # DriverMaper
+# 驱动map执行,抄的blackbone的,第二个驱动不支持加壳且必须关闭GS检查，将第二个驱动放置同目录改名为ThaSafe.dll(见DriverEntry)
+# 请无视操蛋的获取路径操作...蛋疼....
